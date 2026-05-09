@@ -1,36 +1,184 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FitTrack — Fitness & Wellness Platform
 
-## Getting Started
+FitTrack is a modern fitness and wellness platform built with Next.js, Tailwind CSS, and Shadcn/UI. The project focuses on delivering a premium frontend experience with smooth onboarding flows, responsive layouts, interactive dashboards, and polished UI/UX.
 
-First, run the development server:
+---
+
+# ✨ Features
+
+## 🌟 Landing Page
+- Modern hero section with gradients and animations
+- Responsive sticky navbar with mobile drawer
+- Features section with hover interactions
+- Testimonials section
+- Pricing cards
+- CTA sections
+- Smooth animations using Framer Motion
+- Fully responsive design
+
+---
+
+## 🔐 5-Step Onboarding Flow
+- Multi-step onboarding/authentication experience
+- Real-time form validation using Zod + React Hook Form
+- Animated transitions between steps
+- Fitness goals selection
+- Activity level selection
+- Profile setup with avatar upload preview
+- Progress persistence using Zustand + localStorage
+- Route protection and onboarding flow handling
+
+---
+
+## 📊 Dashboard
+- Personalized welcome section
+- Fitness stats cards
+- Weekly activity chart
+- Goal progress tracking
+- Recent workouts section
+- Responsive sidebar navigation
+- Dynamic onboarding-based personalization
+
+---
+
+# 🛠️ Tech Stack
+
+- Next.js 16 (App Router)
+- TypeScript
+- Tailwind CSS
+- Shadcn/UI
+- Framer Motion
+- Zustand
+- React Hook Form
+- Zod
+- Recharts
+- Lucide React
+
+---
+
+# 📱 Responsive Design
+
+The application is optimized for:
+- Desktop
+- Tablet
+- Mobile devices
+
+---
+
+# 🚀 Getting Started
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/fittrack-fitness-platform.git
+```
+
+---
+
+## Navigate to Project Folder
+
+```bash
+cd fittrack-fitness-platform
+```
+
+---
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Run Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Open in Browser
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```txt
+http://localhost:3000
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+# 📦 Available Scripts
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Start Development Server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm run dev
+```
 
-## Deploy on Vercel
+## Create Production Build
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm run build
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Start Production Server
+
+```bash
+npm run start
+```
+
+## Run Linting
+
+```bash
+npm run lint
+```
+
+---
+
+# 📂 Project Structure
+
+```txt
+app/
+components/
+store/
+lib/
+public/
+```
+
+---
+
+# 🎯 Highlights
+
+- Clean component-based architecture
+- Modern SaaS-inspired UI
+- Smooth onboarding experience
+- Persistent user state management
+- Mobile-first responsive layouts
+- Premium dashboard interactions
+- Reusable UI components
+- Framer Motion animations and micro-interactions
+
+---
+
+# 🌐 Live Demo
+
+(Add Vercel deployment link here)
+
+---
+
+# 📸 Screenshots
+
+## Landing Page
+(Add screenshot here)
+
+## Onboarding Flow
+(Add screenshot here)
+
+## Dashboard
+(Add screenshot here)
+
+---
+
+# 👨‍💻 Author
+
+Sharath Chandra
