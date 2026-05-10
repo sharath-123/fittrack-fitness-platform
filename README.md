@@ -169,13 +169,20 @@ https://fittrack-fitness-platform-five.vercel.app/
 # 📸 Screenshots
 
 ## Landing Page
-(Add screenshot here)
+<img width="1365" height="637" alt="image" src="https://github.com/user-attachments/assets/2b15763d-0b99-4554-b892-b18d40023a66" />
+
 
 ## Onboarding Flow
-(Add screenshot here)
+<img width="624" height="583" alt="image" src="https://github.com/user-attachments/assets/45379ae5-bb3d-4d99-b2f9-5e2956c2dbef" />
+<img width="600" height="510" alt="image" src="https://github.com/user-attachments/assets/6cc0b133-9d1e-42a6-b7a3-6bb54af4b57f" />
+<img width="567" height="609" alt="image" src="https://github.com/user-attachments/assets/b8270ab5-2d61-4a60-96c0-ccffb65d6c13" />
+<img width="547" height="601" alt="image" src="https://github.com/user-attachments/assets/6fd2113c-151f-4566-bbd9-07cd97010fda" />
+<img width="445" height="608" alt="image" src="https://github.com/user-attachments/assets/2c9af03b-d666-48e6-9235-773de73ac213" />
+
 
 ## Dashboard
-(Add screenshot here)
+<img width="1363" height="636" alt="image" src="https://github.com/user-attachments/assets/f3240512-0385-458d-9469-f18ce5e2189d" />
+
 
 ---
 
