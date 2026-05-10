@@ -168,8 +168,11 @@ https://fittrack-fitness-platform-five.vercel.app/
 
 # 📸 Screenshots
 
-## Landing Page
+## Landing Page ( desktop )
 <img width="1365" height="637" alt="image" src="https://github.com/user-attachments/assets/2b15763d-0b99-4554-b892-b18d40023a66" />
+
+(Mobile Version ) - <img width="1080" height="2408" alt="1000284666" src="https://github.com/user-attachments/assets/8277e500-0498-4529-9cf2-049df9ecc917" />
+
 
 
 ## Onboarding Flow
