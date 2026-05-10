@@ -162,7 +162,7 @@ public/
 
 # 🌐 Live Demo
 
-(Add Vercel deployment link here)
+https://fittrack-fitness-platform-five.vercel.app/
 
 ---
 
