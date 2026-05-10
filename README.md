@@ -187,6 +187,30 @@ https://fittrack-fitness-platform-five.vercel.app/
 <img width="1363" height="636" alt="image" src="https://github.com/user-attachments/assets/f3240512-0385-458d-9469-f18ce5e2189d" />
 
 
+# 🧩 Component Architecture
+
+The application follows a modular and reusable component architecture.
+
+## Folder Structure
+
+```txt
+components/
+├── dashboard/
+├── onboarding/
+├── shared/
+├── providers/
+└── ui/
+```
+
+## Architecture Decisions
+
+- Zustand is used for global onboarding state management and persistence.
+- React Hook Form + Zod are used for scalable form validation.
+- Framer Motion powers onboarding and dashboard animations.
+- Shared UI primitives are built using Shadcn/UI.
+- Dashboard widgets are modularized into reusable sections.
+- Tailwind CSS utility classes are used for responsive styling consistency.
+- Next.js App Router is used for route organization and layout handling.
 ---
 
 # 👨‍💻 Author
